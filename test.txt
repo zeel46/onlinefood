@@ -1,0 +1,6 @@
+creteing feature branch named feature/cart
+adding cart related funcitons,
+commiy and merge to main.
+show commit log
+
+
